@@ -1,0 +1,44 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  input, button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 6px;
+    border: none;
+  }
+  
+  input {
+    width: 250px;
+  }
+  
+  button {
+    background-color: #1f6feb;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3b82f6;
+  }
+  
+  table {
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border-bottom: 1px solid #444;
+  }
+  
+  .custom-character td {
+    color: #4ade80; /* green color */
+    font-weight: bold;
+  }
